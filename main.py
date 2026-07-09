@@ -1,4 +1,5 @@
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 
 from app.modelos.ticket import Ticket
 from app.schemas.resposta import RespostaIA
@@ -11,6 +12,17 @@ app = FastAPI(
     version="1.0.0"
 )
 
+# ---------------------------------
+# CORS
+# ---------------------------------
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],          # depois você pode restringir ao domínio do frontend
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # ---------------------------------
 # Health Check
@@ -28,9 +40,6 @@ def status():
 # ---------------------------------
 # Análise de Ticket
 # ---------------------------------
-
-from fastapi import HTTPException
-
 
 @app.post("/analisar-ticket")
 def analisar(ticket: Ticket):
