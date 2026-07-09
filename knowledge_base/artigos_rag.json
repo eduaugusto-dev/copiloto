@@ -1,0 +1,278 @@
+[
+    {
+        "id": "33000052297",
+        "texto": "\nTítulo:\nCriação de VPN-IPSEC -  FORTIGATE - KB 33000052297\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nFortinet\n\nAutor:\nBreno Viana\n",
+        "metadata": {
+            "id": "33000052297",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Fortinet",
+            "autor": "Breno Viana"
+        }
+    },
+    {
+        "id": "33000053142",
+        "texto": "\nTítulo:\nNutanix - Server Not Reachable — KB-33000052092\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nNutanix\n\nAutor:\nBreno Viana\n",
+        "metadata": {
+            "id": "33000053142",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Nutanix",
+            "autor": "Breno Viana"
+        }
+    },
+    {
+        "id": "33000055061",
+        "texto": "\nTítulo:\nDisk Space Usage High for /home/log/audit on PCVM XXX.XXX.XXX.XXX — KB 33000055061\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nDraft\n\nPasta:\nNutanix\n\nAutor:\nBreno Viana\n",
+        "metadata": {
+            "id": "33000055061",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Draft",
+            "pasta": "Nutanix",
+            "autor": "Breno Viana"
+        }
+    },
+    {
+        "id": "33000033268",
+        "texto": "\nTítulo:\nGuia para abertura de chamados na Freshservice\n\nCategoria:\nDúvidas Frequentes / Suporte\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nManuais\n\nAutor:\nAndre Garcia\n",
+        "metadata": {
+            "id": "33000033268",
+            "categoria": "Dúvidas Frequentes / Suporte",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Manuais",
+            "autor": "Andre Garcia"
+        }
+    },
+    {
+        "id": "33000035867",
+        "texto": "\nTítulo:\nCriação e Configuração de VLAN porta trunk no Juniper — KB-33000035867\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nJuniper\n\nAutor:\nMarcos Martins\n",
+        "metadata": {
+            "id": "33000035867",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Juniper",
+            "autor": "Marcos Martins"
+        }
+    },
+    {
+        "id": "33000037062",
+        "texto": "\nTítulo:\nAtualização do PostgreSQL — KB-33000037062\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nVeeam\n\nAutor:\nMarcos Martins\n",
+        "metadata": {
+            "id": "33000037062",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Veeam",
+            "autor": "Marcos Martins"
+        }
+    },
+    {
+        "id": "33000045411",
+        "texto": "\nTítulo:\nAtivar 'Application-Aware Processing' — KB-33000045411\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nVeeam\n\nAutor:\nMarcos Martins\n",
+        "metadata": {
+            "id": "33000045411",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Veeam",
+            "autor": "Marcos Martins"
+        }
+    },
+    {
+        "id": "33000052573",
+        "texto": "\nTítulo:\nDiagnóstico e Tratamento de Erro de Memória (DIMM RAS / hPPR) — KB-33000052573\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nDraft\n\nPasta:\nNutanix\n\nAutor:\nMarcos Martins\n",
+        "metadata": {
+            "id": "33000052573",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Draft",
+            "pasta": "Nutanix",
+            "autor": "Marcos Martins"
+        }
+    },
+    {
+        "id": "33000053283",
+        "texto": "\nTítulo:\nConfiguração de SSH sem senha em cluster Nutanix — KB-33000053283\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nDraft\n\nPasta:\nNutanix\n\nAutor:\nMarcos Martins\n",
+        "metadata": {
+            "id": "33000053283",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Draft",
+            "pasta": "Nutanix",
+            "autor": "Marcos Martins"
+        }
+    },
+    {
+        "id": "33000034773",
+        "texto": "\nTítulo:\nLCM Connectivity Issue — KB-33000034773\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nNutanix\n\nAutor:\nBeatriz Gadelha\n",
+        "metadata": {
+            "id": "33000034773",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Nutanix",
+            "autor": "Beatriz Gadelha"
+        }
+    },
+    {
+        "id": "33000034774",
+        "texto": "\nTítulo:\nMigrar OVS bridge br0 de um Virtual Switch no Nutanix — KB-33000034774\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nNutanix\n\nAutor:\nBeatriz Gadelha\n",
+        "metadata": {
+            "id": "33000034774",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Nutanix",
+            "autor": "Beatriz Gadelha"
+        }
+    },
+    {
+        "id": "33000034847",
+        "texto": "\nTítulo:\nApagar Orphan Snapshot — KB-33000034847\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nNutanix\n\nAutor:\nBeatriz Gadelha\n",
+        "metadata": {
+            "id": "33000034847",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Nutanix",
+            "autor": "Beatriz Gadelha"
+        }
+    },
+    {
+        "id": "33000034857",
+        "texto": "\nTítulo:\nMudar Todas as Senhas SSH em um Cluster Nutanix — KB-33000034857\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nNutanix\n\nAutor:\nBeatriz Gadelha\n",
+        "metadata": {
+            "id": "33000034857",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Nutanix",
+            "autor": "Beatriz Gadelha"
+        }
+    },
+    {
+        "id": "33000035503",
+        "texto": "\nTítulo:\nCriação do Cluster NKP no Nutanix — Passo a passo com explicações — KB-33000035503\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nNutanix\n\nAutor:\nBeatriz Gadelha\n",
+        "metadata": {
+            "id": "33000035503",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Nutanix",
+            "autor": "Beatriz Gadelha"
+        }
+    },
+    {
+        "id": "33000053125",
+        "texto": "\nTítulo:\nTroubleshoot de Falhas Intermitentes na API e Erro 'Certificate has Expired' no NKP — KB-33000053125\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nDraft\n\nPasta:\nNutanix\n\nAutor:\nBeatriz Gadelha\n",
+        "metadata": {
+            "id": "33000053125",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Draft",
+            "pasta": "Nutanix",
+            "autor": "Beatriz Gadelha"
+        }
+    },
+    {
+        "id": "33000053128",
+        "texto": "\nTítulo:\nRenovação e Atualização de Certificados do Control Plane no NKP — KB-33000053128\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nNutanix\n\nAutor:\nBeatriz Gadelha\n",
+        "metadata": {
+            "id": "33000053128",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Nutanix",
+            "autor": "Beatriz Gadelha"
+        }
+    },
+    {
+        "id": "33000053338",
+        "texto": "\nTítulo:\nTasks Travadas (Stuck Tasks) no Nutanix — KB-33000053338\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nNutanix\n\nAutor:\nBeatriz Gadelha\n",
+        "metadata": {
+            "id": "33000053338",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Nutanix",
+            "autor": "Beatriz Gadelha"
+        }
+    },
+    {
+        "id": "33000053435",
+        "texto": "\nTítulo:\nDesregistro (Unregister) de Cluster e Prism Central: Fluxos Padrão e Forçado — KB-33000053435\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nNutanix\n\nAutor:\nBeatriz Gadelha\n",
+        "metadata": {
+            "id": "33000053435",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Nutanix",
+            "autor": "Beatriz Gadelha"
+        }
+    },
+    {
+        "id": "33000053642",
+        "texto": "\nTítulo:\nRemover Cluster da Blacklist para Registro no Prism Central - KB-33000053642\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nNutanix\n\nAutor:\nBeatriz Gadelha\n",
+        "metadata": {
+            "id": "33000053642",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Nutanix",
+            "autor": "Beatriz Gadelha"
+        }
+    },
+    {
+        "id": "33000053647",
+        "texto": "\nTítulo:\nProcedimento de Recuperação Completa de Nó: Phoenix, CVM Ring e Metadata Store\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nDraft\n\nPasta:\nNutanix\n\nAutor:\nBeatriz Gadelha\n",
+        "metadata": {
+            "id": "33000053647",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Draft",
+            "pasta": "Nutanix",
+            "autor": "Beatriz Gadelha"
+        }
+    },
+    {
+        "id": "33000054045",
+        "texto": "\nTítulo:\nTroubleshooting Prometheus Pod CrashLoop on PC 2024.x (CMSP WAL Corruption) -  KB-33000054045\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nNutanix\n\nAutor:\nBeatriz Gadelha\n",
+        "metadata": {
+            "id": "33000054045",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Nutanix",
+            "autor": "Beatriz Gadelha"
+        }
+    },
+    {
+        "id": "33000054046",
+        "texto": "\nTítulo:\nResolving 'Unhealthy' ClusterWorkflow Status Post-Service Recovery via mspctl — KB-33000054046\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nNutanix\n\nAutor:\nBeatriz Gadelha\n",
+        "metadata": {
+            "id": "33000054046",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Nutanix",
+            "autor": "Beatriz Gadelha"
+        }
+    },
+    {
+        "id": "33000055268",
+        "texto": "\nTítulo:\nRestabelecimento do Módulo de Infraestrutura (pc.7.5.1.4) - KB-33000055268\n\nCategoria:\nKBs Internos\n\nTipo:\nPermanent\n\nStatus:\nPublished\n\nPasta:\nNutanix\n\nAutor:\nBeatriz Gadelha\n",
+        "metadata": {
+            "id": "33000055268",
+            "categoria": "KBs Internos",
+            "tipo": "Permanent",
+            "status": "Published",
+            "pasta": "Nutanix",
+            "autor": "Beatriz Gadelha"
+        }
+    }
+]

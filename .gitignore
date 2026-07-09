@@ -1,0 +1,100 @@
+# =========================
+# Ambiente Python
+# =========================
+
+.venv/
+venv/
+env/
+
+# =========================
+# Variáveis de ambiente
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+# Cache Python
+# =========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Testes
+# =========================
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Logs
+# =========================
+
+*.log
+logs/
+
+# =========================
+# Banco de dados local
+# =========================
+
+*.sqlite3
+*.db
+
+# =========================
+# RAG / IA
+# =========================
+
+# Bancos vetoriais locais
+chroma/
+chroma_db/
+vector_db/
+
+# Arquivos gerados por embeddings
+embeddings/
+*.npy
+*.pkl
+
+# =========================
+# Arquivos temporários
+# =========================
+
+tmp/
+temp/
+*.tmp
+
+# =========================
+# Cursor / VS Code
+# =========================
+
+.vscode/
+.cursor/
+
+# =========================
+# IDEs
+# =========================
+
+.idea/
+
+# =========================
+# Sistema operacional
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# Arquivos grandes
+# =========================
+
+*.zip
+*.rar
+
+# =========================
+# Uploads locais
+# =========================
+
+uploads/

@@ -1,0 +1,884 @@
+[
+    {
+        "id": "1168",
+        "texto": "\nTicket histórico: 1168\n\nTipo:\nService Request\n\nCategoria:\nNutanix\n\nSubcategoria:\nLCM (Lifecycle Manager)\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CMM] Acesso Semanal\n\n\nDescrição do problema:\nCheck semanal ambiente CMM.\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "LCM (Lifecycle Manager)"
+        }
+    },
+    {
+        "id": "1169",
+        "texto": "\nTicket histórico: 1169\n\nTipo:\nIncident\n\nCategoria:\nSentinel One\n\nSubcategoria:\nAgent (Clients)\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] Bloquieo de rede - AGENT SENTINEL\n\n\nDescrição do problema:\nBloqueio de rede pelo agent após intalação de programa não homologado.\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nFoi constatado que o bloqueio se trata de uma atividade não maliciosa. Foi dado como Falso positivo e não maligno.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Sentinel One",
+            "subcategoria": "Agent (Clients)"
+        }
+    },
+    {
+        "id": "1170",
+        "texto": "\nTicket histórico: 1170\n\nTipo:\nIncident\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] teste KB\n\n\nDescrição do problema:\nTESTES\n\n\nInterações do analista:\n0\n\n\nResolução aplicada:\nteste\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1171",
+        "texto": "\nTicket histórico: 1171\n\nTipo:\nIncident\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] Novo teste snapshot orphan\n\n\nDescrição do problema:\ntestes\n\n\nInterações do analista:\n0\n\n\nResolução aplicada:\ntestes\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1172",
+        "texto": "\nTicket histórico: 1172\n\nTipo:\nIncident\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] teste snapshot orphan\n\n\nDescrição do problema:\nteste\n\n\nInterações do analista:\n0\n\n\nResolução aplicada:\nteste\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1175",
+        "texto": "\nTicket histórico: 1175\n\nTipo:\nService Request\n\nCategoria:\nNutanix\n\nSubcategoria:\nPrism (Management)\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] Adição de Login via Entra ID no Prism Central Lab\n\n\nDescrição do problema:\nBoa tarde Bruno. Solicito a configuração de login via entra id em nosso lab Nutanix no intuito de realizar automações de nuvem Nutanix junto ao lab. Att.\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nRealizada a configuração e o login via SAML funcionou corretamente.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "Prism (Management)"
+        }
+    },
+    {
+        "id": "1176",
+        "texto": "\nTicket histórico: 1176\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Criação de grupo de email\n\n\nDescrição do problema:\nOla, boa tarde. Gostaria de solicitar a criação do grupo de email renovacoes@clearit.com.br e incluir \"Samuel dos Santos de Lima Moreira\" <smoreira@clearit.com.br> e eu. Obrigada!\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nGrupo criado de acordo com a solicitação.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1177",
+        "texto": "\nTicket histórico: 1177\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nAOS\n\nPrioridade:\nAlta\n\n\nAssunto:\n[PMPV] Problemas no NKP\n\n\nDescrição do problema:\nPrezados, boa tarde! Gostaríamos de um apoio no NKP referente ao nosso cluster, aparentemente estamos com problemas no armazenamento de arquivos. Por favor se puderem entrar em contato com o Analista Hugo tel : 69: 99328-6474.\n\n\nInterações do analista:\n5\n\n\nResolução aplicada:\nSintoma Relatado:Indisponibilidade da interface do Kommander/NKP, apresentando a mensagem de erro \"certificate has expired\". O painel exibia status de erro na comunicação e métricas de CPU e Memória como \"N/A\" para o cluster. Falhas intermitentes na execução de comandos via kubectl. Causa Raiz:Os certificados internos do Kubernetes (gerenciados pelo kubeadm, incluindo apiserver e etcd) haviam expirado no nó do Control Plane (nkp-pmpv-k27v7-lwzsq). Como o tráfego do Control Plane é balanceado por um IP VIP, a indisponibilidade ocorria de forma intermitente quando as requisições eram direcionadas para o nó com o certificado inválido. A expiração ocorreu pois o cluster estava operando há mais de um ano sem renovação automática (comportamento padrão em versões anteriores ao NKP 2.16). Ações Realizadas: Verificação inicial dos certificados de frontend (Traefik/Ingress) e pods do cert-manager via kubectl, que se encontravam saudáveis. Como o acesso SSH direto não estava disponível inicialmente, o diagnóstico foi feito utilizando pods efêmeros (kubectl debug node com chroot /host), confirmando a expiração interna via comando kubeadm certs check-expiration. Após obtenção do acesso SSH aos nós do Control Plane, foi executado o procedimento oficial da Nutanix (KB-19301) para renovação dos certificados (sudo kubeadm certs renew all). Removida e recriada a annotation machine.cluster.x-k8s.io/certificates-expiry no objeto kubeadmconfig a partir do Management Cluster para que o Cluster API (CAPI) reconhecesse as novas datas de validade (2027). Validação e Resultados: A interface UI do Kommander voltou a operar normalmente (Status: Active). Comunicação com o API Server do Kubernetes 100% restabelecida e sem erros de TLS. Data de expiração dos certificados dos nós confirmada para o ano de 2027. Recomendação:Para evitar reincidência anual, recomenda-se o planejamento da atualização do cluster para a versão NKP 2.16 (ou superior), na qual a renovação de certificados do Control Plane passa a ser tratada de forma automática pelo Cluster API.\n\n\nStatus:\nWithin SLA\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "AOS"
+        }
+    },
+    {
+        "id": "1179",
+        "texto": "\nTicket histórico: 1179\n\nTipo:\nIncident\n\nCategoria:\nFortinet\n\nSubcategoria:\nFortigate\n\nPrioridade:\nUrgente\n\n\nAssunto:\n[CMM] Atacks ao email e ao firewall\n\n\nDescrição do problema:\nEstamos sofrendo atacks desde as 8h da manhã. Entramos em contato com Guilherme e, até o momento, não tivemos resposta, sobre o que fazer, mas recebeu a informação!\n\n\nInterações do analista:\n2\n\n\nResolução aplicada:\nOlá Joney, Acessamos o ambiente e tratamos do caso com Local-in-Policy e regras de Deny WAN to LAN O acesso ao servidor Windows foi constatado como ataque interno, uma vez que o trafego nao passou em momento algum pelo firewall. Hoje trataremos em um outro chamado das regras de seu ambiente para reavaliar medidas de segurança e talvez isolar estes servers em outra sub-rede Atenciosamente,\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Fortinet",
+            "subcategoria": "Fortigate"
+        }
+    },
+    {
+        "id": "1180",
+        "texto": "\nTicket histórico: 1180\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nAOS\n\nPrioridade:\nMédia\n\n\nAssunto:\n[MPPA] Perda de Volume VMware\n\n\nDescrição do problema:\nSegue relato de inacessibilidade de um volume no Vcenter utilizado pela nossa infraestrutura Openshift. Problema identificado após a queda do cluster em 24/04/2026. Prezado Anderson, Em atenção ao caso aberto junto a Red Hat, solicito a abertura de chamado para análise do volume abaixo no ambiente VMware, com o objetivo de verificar sua existência e identificar possíveis inconsistências registradas no event log do vCenter. Detalhes do volume: PVC: pvc-88605aee-deb2-4c36-b02b-9a13e181011f CNS Volume ID: 34a75a1e-5754-4466-ade3-1605f711a1b6 Informações do ambiente: Virtual Machine: vm-4255 vCenter: s1vcenter8.mp.pa.gov.br UUID: 423477d3-185c-9cd9-da4b-be9819f73921 Datacenter: datacenter-3 Erro identificado: The resource 'volume' is in use. opId: 804c51ae Solicitação: Verificar se o volume CNS ainda existe no ambiente; Analisar os eventos no vCenter relacionados ao volume informado; Identificar a causa do erro de \"volume em uso\"; Fico à disposição para fornecer informações adicionais, caso necessário. Atenciosamente, De: Red Hat Support <support@redhat.com> Enviado: terça-feira, 5 de maio de 2026 15:15 Para: MATHEUS DE FIGUEIREDO SOARES RAPOSO <matheussoares@mppa.mp.br>; EDNELSON SILVA DE SOUSA <ednelsonsousa@mppa.mp.br>; JEFFERSON LUIZ DO NASCIMENTO RIBEIRO <jeffersonribeiro@mppa.mp.br>; MOISES SOARES VIEIRA <moisesmsv@mppa.mp.br>; HELDER DIEGO DE SOUZA MIRANDA <heldermiranda@mppa.mp.br>; ANDERSON SANTOS DE SOUZA <andersonsouza@mppa.mp.br> Assunto: (WoRH) (SEV 2) Caso #04438583 (The noobaa-operator pod is in CrashLoopBackOff with 5+ restarts) ref:_00DA0HxWH._500Hn1sLP8C:ref --------------------------------------- | Informações sobre o Caso | --------------------------------------- https://access.redhat.com/support/cases/#/case/04438583 Título do Caso : The noobaa-operator pod is in CrashLoopBackOff with 5+ restarts Número do Caso : 04438583 Data de Abertura do Caso : 2026-05-04 11:39:18 Gravidade : 2 (High) Tipo de Problema : Other Produto : OpenShift Container Platform Versão do produto : 4.18 --------------------------------------- Os anexos a seguir foram recentemente adicionados a este caso: inspect.local.5617598284888224454.zip must-gather.zip must-gather.zip must-gather-noobaa-prd.zip --------------------------------------- Para garantir a melhor experiência de suporte possível, por favor observe o seguinte: * Ao responder a este email, os seus comentários provavelmente serão adicionados ao caso. No entanto, sugerimos que os comentários sejam adicionados diretamente ao Portal do Consumidor, no caso de falhas de email. * Ao responder a este email, não mude o assunto. * Certifique-se de responder aos emails do caso com o endereço de email listado como seu contato para o caso. * Os anexos não podem ser adicionados aos casos via email. Eles devem ser inseridos no caso diretamente. --------------------------------------- Supporting success. Exceeding expectations. Suporte Red Hat na Mídia Social: https://access.redhat.com/social/ Discussões do Portal do Consumidor Red Hat: https://access.redhat.com/discussions/ Red Hat Access Labs: https://access.redhat.com/labs/ Caso você precise de assistência imediata, por favor acesse https://access.redhat.com/support/contact/technicalSupport/ --------------------------------------- ref:_00DA0HxWH._500Hn1sLP8C:ref\n\n\nInterações do analista:\n10\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nnan\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "AOS"
+        }
+    },
+    {
+        "id": "1182",
+        "texto": "\nTicket histórico: 1182\n\nTipo:\nIncident\n\nCategoria:\nCommvault\n\nSubcategoria:\nRepositório\n\nPrioridade:\nUrgente\n\n\nAssunto:\n[SEFAZ-MT] Backup parado por falta de espaço no exagrid\n\n\nDescrição do problema:\nontem fizemos alterações nos jopbs de backup do commvault, retirei a deduplicação e a compressão dos jobs e deixei que o exagrid fizess pois a deduplicação no exagrid estava em 1.7:1 apos essa alteração foi para 2.28:1 mas o crescimento da base foi rapido e a previsão de ficar cheia era para setembro de 2026 acabou sendo ontem.\n\n\nInterações do analista:\n3\n\n\nResolução aplicada:\nFoi identificada falha na execução dos backups para o appliance ExaGrid AVTA252411441 devido à indisponibilidade de espaço em disco. Acionado suporte do fabricante ExaGrid para análise do cenário. Conforme orientação do engenheiro Leandro Morales (ExaGrid), foi realizada a parada temporária do envio de todos os backups ao appliance, a fim de permitir o processamento do serviço de desduplicação e consequente liberação de espaço. Adicionalmente, foi efetuado o ajuste temporário do RTL (Retention Time Limit) dos shares para 1 dia, visando liberar dados em estado Pending Purge. Foi esclarecido pelo fabricante que a variação da taxa de deduplicação observada é um comportamento esperado durante períodos de alta movimentação ou exclusão de dados, devendo se normalizar após a conclusão do processamento do backlog. O equipamento seguiu processando o backlog de desduplicação e liberando espaço gradualmente, estando sob monitoramento contínuo do suporte ExaGrid. A recomendação era manter os backups pausados até a estabilização do ambiente, com nova validação prevista após a evolução do processamento. Em 07/05 validamos com o cliente que foram liberados 30TB de espaço no appliance, sendo possível retomar a rotina de backups do ambiente da SEFAZ-MT.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Commvault",
+            "subcategoria": "Repositório"
+        }
+    },
+    {
+        "id": "1183",
+        "texto": "\nTicket histórico: 1183\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Criação de e-mail\n\n\nDescrição do problema:\nBom dia! Poderia criar um e-mail para o Compliance, com o endereço: compliace@clearit e incluir a Dr. Michele e Dr. Livia. michele@stoffel.adv.br; livia.matta@stoffel.adv.br\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nGrupo criado e realizado uma regra de redirecionamento no exchange para enviar os emails da caixa para as duas pessoas informadas na descrição. \n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1186",
+        "texto": "\nTicket histórico: 1186\n\nTipo:\nIncident\n\nCategoria:\nCommvault\n\nSubcategoria:\nCommCell Console\n\nPrioridade:\nUrgente\n\n\nAssunto:\n[SETIC-RO] Erro na execução de BKP Commvault\n\n\nDescrição do problema:\nErro na execução de politicas de BKP, ferramenta Commvault\n\n\nInterações do analista:\n6\n\n\nResolução aplicada:\nProblema Relatado: Falhas recorrentes e totais nos jobs de backup VSA (Commvault) das VMs hospedadas no cluster Nutanix DETIC, iniciadas em 07/02/2026. Causa Raiz: Corrupção lógica e estrutural no banco de dados interno do Nutanix (Zookeeper). O serviço Cerebro (responsável pelo gerenciamento de snapshots) encontra-se em crash loop infinito devido a um paradoxo de configuração: um \"Remote Site\" fantasma registrado no banco aponta para o próprio Cluster ID local (111065). Sem o serviço Cerebro ativo, a API de gerenciamento de disco do hipervisor fica inoperante, impedindo o Commvault de executar os snapshots. Ações Realizadas (Troubleshooting): Análise dos logs .FATAL nas CVMs, confirmando a assinatura do erro (Check failed: remote_site Remote site does not exist with cluster id 111065). Inspeção da base de dados via zeus_config_printer, confirmando a configuração circular. Tentativas de deleção da entidade corrompida via ncli e Prism Gateway REST API. Operações bloqueadas (HTTP 500) pela ausência do serviço Cerebro para validar a transação. Reset controlado do serviço (genesis stop cerebro), porém o erro retorna imediatamente na inicialização. Alinhamento: O equipamento (Nós G5) encontra-se em End of Life (EOL), com licenciamento expirado (standby mode) e sem contrato de suporte ativo junto à fabricante Nutanix. Como acordado com o cliente (Jean Franco), a atualização do ambiente (AOS) é indicada como última tentativa de estabilização do software. Contudo, foi formalmente ressaltado e aceito que o risco de não retorno do ambiente durante essa atualização deve ser assumido pelo cliente, dados os agravantes estruturais: hardware EOL sem respaldo do fabricante, múltiplos indicadores de degradação física/lógica e ausência de suporte para acionamento em caso de falha crítica.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Commvault",
+            "subcategoria": "CommCell Console"
+        }
+    },
+    {
+        "id": "1187",
+        "texto": "\nTicket histórico: 1187\n\nTipo:\nService Request\n\nCategoria:\nNutanix\n\nSubcategoria:\nServices (Files/Objects)\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CBMAC] Share Permissions (SMB) e Backup\n\n\nDescrição do problema:\nBom Dia, mesmo eu colocando o usuário somente com permissão de leitura ele consegue add e excluir dentro da pasta compartilhada. E preciso de uma ajuda para configurar Backup/Snapshots no file server.\n\n\nInterações do analista:\n4\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "Services (Files/Objects)"
+        }
+    },
+    {
+        "id": "1188",
+        "texto": "\nTicket histórico: 1188\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nHardware\n\nPrioridade:\nMédia\n\n\nAssunto:\n[PRODAM] DIMM CECC error\n\n\nDescrição do problema:\nBoa tarde, solicito apoio técnico para verificação do alerta em host NX-8170-G9 (24SH5R240435). 1 DIMM RAS event found for P1-DIMMD2(Serial:80CE042416500770E9) by Samsung on host 10.80.0.54 in last 24 hours. Installed BIOS version is EH31.001\n\n\nInterações do analista:\n8\n\n\nResolução aplicada:\nSeguindo a documentação oficial da Nutanix (https://portal.nutanix.com/page/documents/kbs/details?targetId=kA07V000000LWRkSAO), colocamos o Node que apresentou o erro em modo manutenção, monitorando a resiliencia do Cluster e o migration de VMs. Após o Node entrar em modo manutenção, realizamos o acesso via SSH com o usuário root no host, e realizamos o reboot do mesmo através do comando: Reboot -h now Durante a inicialização do Node, foi apresentado a mensagem “Post Package Repair Success P1 = DIMMC1”, que indica que o problema foi corrigido após a reinicialização. Após o Node estar 100% operante, verificamos que de fato a correção foi realizada com sucesso. Confirmado que o problema foi sanado, removemos o Node do modo manutenção e acordamos que o chamado seria encerrado, e o Node ficaria em observação pelo cliente.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "Hardware"
+        }
+    },
+    {
+        "id": "1189",
+        "texto": "\nTicket histórico: 1189\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] Acesso ao Share Clientes\n\n\nDescrição do problema:\nOlá, gostaria de solicitar acesso ao SharePoint Comercial para o Samuel Moreira\n\n\nInterações do analista:\n2\n\n\nResolução aplicada:\nacesso liberado a pasta clientes\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1191",
+        "texto": "\nTicket histórico: 1191\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nAHV\n\nPrioridade:\nMédia\n\n\nAssunto:\n[PMM] Host ficou preso no processo de remoção do cluster\n\n\nDescrição do problema:\nAo executar o processo de remoção de um host do cluster Infra, o mesmo iniciou o procedimento de remoção, limpou todos os discos, mas não removeu o host, deixando o processo pendente e o host com o status de \"Being Removed\"\n\n\nInterações do analista:\n12\n\n\nResolução aplicada:\nSituação identificada · Host 172.17.106.169: remoção lógica concluída; permanece “travado” na interface (GUI) do Prism. · Host 172.17.106.197: remoção em fase final, com tarefa em 94%. Encaminhamento acordado · Aguardamos a finalização da remoção do host 172.17.106.197 para prosseguir com a tratativa. · Nova sessão planejada para 08/05, entre 10:00 e 10:30 (horário de Manaus), mediante disponibilidade do cliente. Ações realizadas e evidências · Identificado espaço de HA reservado em estado crítico. Após remover a reserva de HA e executar novamente o comando de remoção, o processo iniciou, porém finalizou com erro. · Efetuadas novas tentativas de remoção dos nós selecionados via Prism Element e via linha de comando, sem sucesso. · Como último recurso, foi realizado o desligamento físico de um dos nós para forçar a remoção. Mesmo após aguardar ~12 horas, o host permaneceu “travado” na GUI, ocasionando novos problemas de comunicação com a interface e falhas nos backups. Conclusão / Resolução Devido à ausência de licenciamento para acionamento do suporte do fabricante, foi acordado com o cliente a descontinuidade (“destruição”) do cluster atual e a criação de um novo cluster para acomodação das VMs. Como a atividade exige planejamento prévio (criação do novo cluster e migração das VMs), foi acordado o encerramento deste chamado, com continuidade das tratativas em novos tickets para apoio à migração das VMs e à implantação do novo cluster.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "AHV"
+        }
+    },
+    {
+        "id": "1196",
+        "texto": "\nTicket histórico: 1196\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nUrgente\n\n\nAssunto:\n[CLEARIT] Bloqueio de acesso Ana Paula Aires\n\n\nDescrição do problema:\nGentileza, bloquear todos os acessos da Ana Paula Aires, ela não faz mais parte do time. \n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nUsuário bloqueado com sucesso.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1197",
+        "texto": "\nTicket histórico: 1197\n\nTipo:\nService Request\n\nCategoria:\nNutanix\n\nSubcategoria:\nPrism (Management)\n\nPrioridade:\nBaixa\n\n\nAssunto:\nSR:Nutanix Disaster Recovery - Criação de, alterar, validar e excluir técnicas e relações de replicação de máquina virtual/área de armazenamento\n\n\nDescrição do problema:\nnan\n\n\nInterações do analista:\n10\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nnan\n\n\nTags:\naging-critico,aberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "Prism (Management)"
+        }
+    },
+    {
+        "id": "1199",
+        "texto": "\nTicket histórico: 1199\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Health Check Office SP\n\n\nDescrição do problema:\nHealth Check Office SP\n\n\nInterações do analista:\n0\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nhealthcheckinterno\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1198",
+        "texto": "\nTicket histórico: 1198\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Health Check Sistemas ClearIT\n\n\nDescrição do problema:\n[ClearIT] Health Check Sistemas ClearIT\n\n\nInterações do analista:\n0\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nhealthchecksistemasclear\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1202",
+        "texto": "\nTicket histórico: 1202\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] Acesso a pasta de eventos\n\n\nDescrição do problema:\nOlá Pessoal, Estou conseguindo acessar somente uma pasta especifica da área de eventos, gostaria de saber se vocês conseguem liberar o acesso pra mim dessas pastas aqui abaixo: Não estou conseguindo vizualizar essas. Desde já agradeço. Atenciosamente.\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nAcesso concedido na pasta solicitada. \n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1203",
+        "texto": "\nTicket histórico: 1203\n\nTipo:\nService Request\n\nCategoria:\nFortinet\n\nSubcategoria:\nFortigate\n\nPrioridade:\nAlta\n\n\nAssunto:\n[SDTI-AC] Conexao de redes\n\n\nDescrição do problema:\nPrezados, boa tarde. Tudo bem? Alinhei ontem, durante call em outro ticket, com o Guilherme, um atendimento para amanha -se possivel- ou segunda-feira para tratarmos de uma conexao entre redes da PMRB com a PF. Endereço de rede da ONU instalada na Polícia Federal: 172.29.96.0 / 24 VLAN de Serviço: 2646 - OLT BARRAL ONU Instalada: FHTTFE26785C - MAC: 98E55B73C108 Faixa das câmeras da PMRB: 172.30.0.0/16\n\n\nInterações do analista:\n5\n\n\nResolução aplicada:\nDurante a call na segunda-feira tratamos da estrutura do SDTI e do uso do fortigate como centralizador das rotas OSPF do município. Fiz os devidos apontamentos sobre a tecnologia e estrutura do firewall que não devem ser utilizados para esta demanda e como gateway da rede PMRB ao mesmo tempo. Neste caso seria necessário utilizar um outro roteador ou manter as redes publicadas nos Switches, como está hoje. Entendemos que a demanda pode se tornar complexa e mesmo que os equipamentos envolvidos na resolução do problema das rotas não seja de gerência da ClearIT, que podemos atuar como consultados nesta demanda para agilizar e apoiar no processo. Ficou alinhado que não fariamos nenhuma alteração no ambiente por agora e que a equipe PMRB fará contato com a PF para validar a possibilidade de um ponto a ponto. Assim que tivermos uma resposta da PF poderemos tomar uma decisão e uma rota para resolução deste caso. Por agora, tratarei o ticket como encerrado para manter o histórico das solicitações limpo e organizado.\n\n\nStatus:\nWithin SLA\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Fortinet",
+            "subcategoria": "Fortigate"
+        }
+    },
+    {
+        "id": "1206",
+        "texto": "\nTicket histórico: 1206\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nPrism (Management)\n\nPrioridade:\nMédia\n\n\nAssunto:\n[SEAD-AC] Reset de senhas do Nutanix\n\n\nDescrição do problema:\nBom dia, Solicitamos, por gentileza, o reset das seguintes credenciais do ambiente Nutanix: Senha do usuário admin do Prism Credenciais do usuário nutanix via SSH nas CVMs Senha de acesso SSH dos hosts/hypervisores Ficamos no aguardo.\n\n\nInterações do analista:\n11\n\n\nResolução aplicada:\nRealizado procedimento descrito na documentação oficial Nutanix (KB-1895), para acesso a CVM sem a necessidade da senha. Após este processo, foi realizado a troca das senhas através de linha de comando utilizando o comando \"sudo passwd nutanix\" e \"user reset-password user-name=admin password=*********\". Para troca das senhas do usuário nutanix e admin do Prism Central, foi necessário realizar a abertura de um chamado junto a nutanix, para que fosse realizada a quebra da senha e a configuração de nova senha. Toda as senhas definidas durante este ticket se encontram em posse do cliente. \n\n\nStatus:\nWithin SLA\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "Prism (Management)"
+        }
+    },
+    {
+        "id": "1208",
+        "texto": "\nTicket histórico: 1208\n\nTipo:\nService Request\n\nCategoria:\nFortinet\n\nSubcategoria:\nFortigate\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CMM] Reorganização Regras de Firewall\n\n\nDescrição do problema:\nDurante um contato esta manhã tratamos com a equipe CMM da necessidade de reavaliar todas as regras de firewall do ambiente CMM para remover duplicatas, regras abertas e regras muito fechadas se for o caso.\n\n\nInterações do analista:\n4\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Fortinet",
+            "subcategoria": "Fortigate"
+        }
+    },
+    {
+        "id": "1209",
+        "texto": "\nTicket histórico: 1209\n\nTipo:\nIncident\n\nCategoria:\nOdoo\n\nSubcategoria:\nSoftware\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Acesso ao CRM (Odoo)\n\n\nDescrição do problema:\nOlá, boa tarde! Estou com um probleminha no Odoo, a Andrea está colocando as oportunidades dos clientes na Diretoria Sul, mas algumas oportunidades não estão aparecendo pra mim, como por exemplo, essa imagem que anexei aqui. E também, por gentileza, se puderem inserir a minha assinatura no Odoo. Obrigada!\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nFoi selecionados os filtros Clear SP e voltou a aparecer as oportunidades no Odoo.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Odoo",
+            "subcategoria": "Software"
+        }
+    },
+    {
+        "id": "1210",
+        "texto": "\nTicket histórico: 1210\n\nTipo:\nService Request\n\nCategoria:\nNutanix\n\nSubcategoria:\nLCM (Lifecycle Manager)\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CMM] Acesso Semanal\n\n\nDescrição do problema:\nCheck semanal ambiente CMM.\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "LCM (Lifecycle Manager)"
+        }
+    },
+    {
+        "id": "1212",
+        "texto": "\nTicket histórico: 1212\n\nTipo:\nIncident\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nAlta\n\n\nAssunto:\n[CLEARIT] telefone recepção\n\n\nDescrição do problema:\nOlá , bom dia . telefone da recepção não esta funcionando na minha máquina \n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nRamal da Camila não estava incluso na fila do telefone da Clear. \n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1213",
+        "texto": "\nTicket histórico: 1213\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nPrism (Management)\n\nPrioridade:\nAlta\n\n\nAssunto:\nNão Consigo autenticar o nutanix pelo os browser\n\n\nDescrição do problema:\nbom dia. Não estamos conseguindo acessar o nutanix. segue abaixo o erro. Desde já, muito obrigado Att, Fabrício Paixão\n\n\nInterações do analista:\n6\n\n\nResolução aplicada:\nExecução dos comandos allssh genesis restart cluster start\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "Prism (Management)"
+        }
+    },
+    {
+        "id": "1214",
+        "texto": "\nTicket histórico: 1214\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Liberação de acesso para assinatura da plataforma de assinatura clicksign\n\n\nDescrição do problema:\nBoa tarde! Por gentileza libera meu acesso, para assinatura do portal clicksign\n\n\nInterações do analista:\n2\n\n\nResolução aplicada:\nSolicitação aprovada.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1215",
+        "texto": "\nTicket histórico: 1215\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] Horário no Teams\n\n\nDescrição do problema:\nBoa tarde! Poderia me orientar como alterar o horário de trabalho no Teams. \n\n\nInterações do analista:\n2\n\n\nResolução aplicada:\nAjuste realizado no outlook e o horario atualizou. \n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1217",
+        "texto": "\nTicket histórico: 1217\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] Acesso ao e-mail de Compliance\n\n\nDescrição do problema:\nA Dr Livia e a Dr Michelle do escritório Stoffel, responsáveis pelo Comitê de Compliance, estão solicitando acesso ao e-mail compliance@clearit.com.br, para poder enviar os e-mails quando necessário. Se puder ser analisado a possibilidade, a Dr Livia e a Dr Michele terão esse acesso e controle.\n\n\nInterações do analista:\n2\n\n\nResolução aplicada:\nUsuario partner criado com sucesso para a Michele e Livia, confome solicitado.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1218",
+        "texto": "\nTicket histórico: 1218\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] Atualização e-mail comite@clearit.com.br\n\n\nDescrição do problema:\nApós recentes mudanças na composição do Comitê de Compliance, faz-se necessária a atualização dos membros, que passam a ser os seguintes: Geisa Azevedo, Priscila Bacelar, Alexandre Guidorzi, André Queiroz e a Dr. Michele e se possível a Dr. Livia. Solicito, por gentileza, a atualização.\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nMembros atualizados conforme solicitado.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1220",
+        "texto": "\nTicket histórico: 1220\n\nTipo:\nService Request\n\nCategoria:\nnan\n\nSubcategoria:\nnan\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEAR] Onboarding - Luis Octavio Duarte Costa\n\n\nDescrição do problema:\nnan\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nOnboarding realizado com sucesso.. \n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "nan",
+            "subcategoria": "nan"
+        }
+    },
+    {
+        "id": "1221",
+        "texto": "\nTicket histórico: 1221\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nPrism (Management)\n\nPrioridade:\nMédia\n\n\nAssunto:\nLicenciamento clusters Nutanix\n\n\nDescrição do problema:\nSolicito apoio para verificar o licenciamento de nossos clusters Nutanix.\n\n\nInterações do analista:\n3\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "Prism (Management)"
+        }
+    },
+    {
+        "id": "1222",
+        "texto": "\nTicket histórico: 1222\n\nTipo:\nService Request\n\nCategoria:\nVeeam\n\nSubcategoria:\nConsole (Interface)\n\nPrioridade:\nMédia\n\n\nAssunto:\n[PREF - CARIACICA] Atualização Veeam Backup & Replication v12 (Build 12.3.1.1139)\n\n\nDescrição do problema:\nGostaria de solicitar apoio técnico para a atualização do nosso ambiente de backup. Atualmente, operamos com o Veeam Backup & Replication v12 (Build 12.3.1.1139) e temos como objetivo a migração para a última versão estável disponível. O procedimento deve contemplar a atualização do console e dos proxies de duas unidades Nutanix. No entanto, devido às versões distintas dos nossos clusters, necessitamos de uma validação de compatibilidade antes de prosseguirmos: Unidade 01: Nutanix versão 5.3.0.1 Unidade 02: Nutanix versão 4.6.6 Nossa principal dúvida: Ao atualizarmos o console Veeam e seus respectivos proxies para a versão mais recente, existe o risco de perda de comunicação ou interrupção do suporte para a unidade Nutanix que opera na versão 4.6.6? Poderiam confirmar se a versão pretendida da Veeam mantém a retrocompatibilidade com essas builds do Nutanix AHV ou se seria recomendada a atualização prévia dos clusters? Fico no aguardo de orientações para agendarmos o procedimento com segurança.\n\n\nInterações do analista:\n5\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Veeam",
+            "subcategoria": "Console (Interface)"
+        }
+    },
+    {
+        "id": "1223",
+        "texto": "\nTicket histórico: 1223\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] Licença Microsoft Visio\n\n\nDescrição do problema:\nBom dia, Solicito a disponibilização de uma licença do Microsoft Visio. Motivo: utilização da ferramenta para criação de topologias e diagramas técnicos nas documentações As Built dos projetos.\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nLicença atribuída com sucesso. \n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1225",
+        "texto": "\nTicket histórico: 1225\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Health Check Sistemas ClearIT\n\n\nDescrição do problema:\n[ClearIT] Health Check Sistemas ClearIT\n\n\nInterações do analista:\n0\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nhealthchecksistemasclear\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1224",
+        "texto": "\nTicket histórico: 1224\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Health Check Office SP\n\n\nDescrição do problema:\nHealth Check Office SP\n\n\nInterações do analista:\n0\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nhealthcheckinterno\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1226",
+        "texto": "\nTicket histórico: 1226\n\nTipo:\nIncident\n\nCategoria:\nExagrid\n\nSubcategoria:\nHardware\n\nPrioridade:\nBaixa\n\n\nAssunto:\nVerificar Backup veaam\n\n\nDescrição do problema:\nBom dia Estamos com problema no backup veam. Att; Fabrício Paixão\n\n\nInterações do analista:\n6\n\n\nResolução aplicada:\nNão foi possível realizar o atendimento devido a falta de cooperação do cliente.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Exagrid",
+            "subcategoria": "Hardware"
+        }
+    },
+    {
+        "id": "1228",
+        "texto": "\nTicket histórico: 1228\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nAHV\n\nPrioridade:\nMédia\n\n\nAssunto:\n[PMM] Configuração de hosts para habilitar para operação.\n\n\nDescrição do problema:\nBoa tarde! Ano passado identificamos um cluster que foi utilizado para treinamento contendo 3 hosts, dois G9 modelo igual os do cluser PMM-DB, e um modelo G8. Destruímos o cluster para reaproveitamento desse ambiente, no entanto, nunca conseguimos concretizar esse uso devido à erros de conexão com o Virtual Switch. Gostaria de receber apoio para realizar a reconfiguração desses hosts para botá-los em operação. Segue a lista dos hosts em questão: Hosts que aparece no foundation NX-8170-G9 NTNX-24SH5R170415-A 172.17.112.129 172.17.106.135 172.17.106.134 HM244S005618 Hosts que não aparecem no foundation 24SH5R170414 NX-8170-G9 NTNX-24SH5R170414-A 172.17.112.128 172.17.106.133 172.17.106.132 HM244S005598 NX-8155-G8 NTNX-21SM5H510131-A NTNX-21SM5H510131-A 172.17.106.174 172.17.106.173 172.17.112.120 HM21AS009073 21SM5H510131 \n\n\nInterações do analista:\n14\n\n\nResolução aplicada:\nFoi necessário fazer a remoção dos snapshots pela GUI manualmente.\n\n\nStatus:\nWithin SLA\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "AHV"
+        }
+    },
+    {
+        "id": "1229",
+        "texto": "\nTicket histórico: 1229\n\nTipo:\nIncident\n\nCategoria:\nCommvault\n\nSubcategoria:\nCommCell Console\n\nPrioridade:\nAlta\n\n\nAssunto:\n[SEFAZ-MT] Falha nos jobs de backupdas VMs do nutanix\n\n\nDescrição do problema:\nesta dando falha em todos os jobs do backup do cluster 03 e clutser 04 em anexo esta as telas da falha do job do cluster04\n\n\nInterações do analista:\n7\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nnan\n\n\nTags:\naging-critico,aberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Commvault",
+            "subcategoria": "CommCell Console"
+        }
+    },
+    {
+        "id": "1231",
+        "texto": "\nTicket histórico: 1231\n\nTipo:\nService Request\n\nCategoria:\nSharepoint\n\nSubcategoria:\nSoftware\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] Mudança acesso Share\n\n\nDescrição do problema:\nBoa tarde Bruno, Favor realizar as seguintes alterações: - Incluir os usuários rsilva e lmakiyama no grupo de email zadara@clearit.com.br - incluir o usuário dgalvao@clearit.com.br ao Share Ata de Registro de Preço como somente membro de leitura. Obrigado. \n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nRealizado a inclusão dos usuários no grupo solicitado e o do Daniel como leitura no share desejado. \n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Sharepoint",
+            "subcategoria": "Software"
+        }
+    },
+    {
+        "id": "1233",
+        "texto": "\nTicket histórico: 1233\n\nTipo:\nService Request\n\nCategoria:\nNutanix\n\nSubcategoria:\nLCM (Lifecycle Manager)\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CMM] Acesso Semanal\n\n\nDescrição do problema:\nCheck semanal ambiente CMM.\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nSLA Violated\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "LCM (Lifecycle Manager)"
+        }
+    },
+    {
+        "id": "1234",
+        "texto": "\nTicket histórico: 1234\n\nTipo:\nIncident\n\nCategoria:\nSharepoint\n\nSubcategoria:\nSoftware\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] Liberação de Acesso Share\n\n\nDescrição do problema:\nOlá, gostaria de solicitar a liberação para acesso conforme abaixo: Clear Tecnologia da Informacao Ltda\\Share-Pos-Venda - Documentos\\Clientes Clear Tecnologia da Informacao Ltda\\Share-Contratos - Documentos\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nAcessos atribuídos conforme solicitado através do sharepoint admin center. \n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Sharepoint",
+            "subcategoria": "Software"
+        }
+    },
+    {
+        "id": "1235",
+        "texto": "\nTicket histórico: 1235\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nData Protection\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[TJ-RR] Protection domain PD-BD02-5M snapshot '6257327216' failed\n\n\nDescrição do problema:\nAmbiente Nutanix apresentou o seguinte erro crítico: Critical : Protection domain PD-BD02-5M snapshot '6257327216' failed. Snapshot cancelled due to underlying error: Failed to finalize LWS for LCS 6baabad0-8134-4f8e-8638-9d770a1cb02e error kCanceled Failing the PD snapshot. Impact : A requested snapshot of guest VMs and files in the protection domain did not succeed. Cause : Protection domain has VMs being protected by other vstore(s) or in case of a cluster where Metro Availability is configured, Metro protection domain has more entities than supported. Stargate service may have been down or restarted during snapshot operation. Protection domain have vTPM enabled VMs present in it. Protection domain based snapshot operation is not supported for vTPM enabled VMs. Protection domain has VMs with PCI passthrough devices attached to it. Protection domain based snapshot operation is not supported for VMs with PCI passthrough devices attached to it. Resolution : Unprotect VMs from other vstore(s) before snapshotting the concerned protection domain. In case of a cluster where Metro Availability is configured, make sure number of entities are within the supported limit. Check if the Stargate service has restarted or is unavailable. Refer to KB 3784 to resolve Stargate service related failures. Once Stargate service is stable, subsequent snapshot creation tasks will succeed. Protect vTPM enabled VMs using a Nutanix DR Protection Policy to create Recovery Points. Review and update the configuration of the VMs in the Protection Domain. If the configuration of the VM cannot be changed then unprotect the VMs. Node Id : J50028C7 Block Id : J50028C7 Block Type : ThinkAgile HX650 V3 Storage CN Cluster Id : 5057116677438579816 Cluster Uuid : 00058428-eb3c-1590-462e-7cd30a6e2468 Cluster Name : TJRR-ADM Cluster Version : el8.5-release-fraser-6.10.1.12-stable-cbae750d7c5e60b6363bf088293aafb67ae5e9e9 Cluster Ips : 10.50.17.121 10.50.17.122 10.50.17.120 10.50.17.119 Timestamp : Fri May 15 23:18:38 -04 2026 Link to view alert : https://10.50.17.121:9440/console/#details?action=details&actionTargetId=a64acab1-fd5c-45b6-9289-05be23ae3375&actionTarget=alert View KB Article(s) : https://portal.nutanix.com/kb/8038\n\n\nInterações do analista:\n2\n\n\nResolução aplicada:\nO alerta foi auto-resolvido às 23:27.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "Data Protection"
+        }
+    },
+    {
+        "id": "1236",
+        "texto": "\nTicket histórico: 1236\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nHardware\n\nPrioridade:\nMédia\n\n\nAssunto:\n[PRODAM] DIMM CECC error\n\n\nDescrição do problema:\nSolicito apoio para verificação de alerta reincidente: DIMM CECC errors found for P1-DIMMD2 on node 10.80.0.54, host Nutanix NX-8170-G9 (24SH5R240435). Ticket anterior #INC-1188 tratado pelo analista Marcos Santos, onde foi efetuado o procedimento de reboot do host e após 72h o problema não havia reincidido.\n\n\nInterações do analista:\n5\n\n\nResolução aplicada:\nPor se tratar de um alerta em estado de recorrência (Já havia sido tratado em um chamado anterior, porém o problema retornou), realizamos a abertura do Case 02561959 junto a Nutanix. Para resolução do problema, a Nutanix realizou a substituição do módulo de memória fisicamente no Host em questão em 22/05. Após este processo, o erro foi corrigido e o problema sanado definitivamente. \n\n\nStatus:\nWithin SLA\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "Hardware"
+        }
+    },
+    {
+        "id": "1239",
+        "texto": "\nTicket histórico: 1239\n\nTipo:\nService Request\n\nCategoria:\nExagrid\n\nSubcategoria:\nConsole\n\nPrioridade:\nAlta\n\n\nAssunto:\n[CMM] Verificar a rotina de backup\n\n\nDescrição do problema:\nSolictamos a inclusão da vm SRVCMMBDDIG03 (servidor de banco de dados SQLSERVER - 172.18.1.25) e a verficação da lista de backup do servidor do camaradigita - 172.18.1.45 onde tivemos que fazer uma intervenção nesse servidor e tivmos que restaurar um snapshot.\n\n\nInterações do analista:\n4\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Exagrid",
+            "subcategoria": "Console"
+        }
+    },
+    {
+        "id": "1240",
+        "texto": "\nTicket histórico: 1240\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nAOS\n\nPrioridade:\nUrgente\n\n\nAssunto:\n[PRODAM] Cluster indisponível\n\n\nDescrição do problema:\nCluster TRE indisponível. Cliente solicita abertura de chamado para suporte da Nutanix. Equipamentos Nutanix G7.\n\n\nInterações do analista:\n3\n\n\nResolução aplicada:\nO Cluster Nutanix encontrava-se totalmente indisponível, com todos os serviços parados; Realizamos a análise inicial do ambiente Nutanix e validamos que os servidores físicos estavam operando normalmente; Validamos também toda a configuração de rede do ambiente Nutanix; Alteramos a configuração de rede de active-backup para balance-slb (Active-Active com MAC Pinning); Reconfiguramos as portas dos switches CISCO conforme o padrão recomendado de implantação Nutanix; Após os ajustes, os Nodes voltaram a se comunicar corretamente; Executamos o comando cluster start para inicialização dos serviços do Cluster; Identificamos que um dos Nodes permaneceu em modo de manutenção após a inicialização do Cluster; Removemos o Node do modo de manutenção e o adicionamos novamente ao Metadata Ring; Validamos que os 3 Nodes ficaram operantes e funcionais; Foi identificado um erro relacionado ao Virtual Switch; Executamos o comando net.migrate_br_to_virtual_switch br0 vs_name=vs0 para migração do Virtual Bond para o Virtual Switch; Corrigimos os alertas apresentados no Cluster; Também realizamos a limpeza/forçamento das tasks com erro que permaneciam no Cluster há mais de duas semanas.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "AOS"
+        }
+    },
+    {
+        "id": "1241",
+        "texto": "\nTicket histórico: 1241\n\nTipo:\nService Request\n\nCategoria:\nVeeam\n\nSubcategoria:\nServidor VBR (Management Server)\n\nPrioridade:\nAlta\n\n\nAssunto:\n[SDTI-AC] Migracao do Veeam 12 (Windows) pro Veeam 13 (Linux)\n\n\nDescrição do problema:\nBoa tarde, pessoal. Tudo bem? Precisamos migrar o Veeam 12 pro Veeam 13 devido aos travamentos constantes do Windows. Agradeco desde ja o suporte de sempre! Abracos.\n\n\nInterações do analista:\n7\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nnan\n\n\nTags:\naging-critico,aberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Veeam",
+            "subcategoria": "Servidor VBR (Management Server)"
+        }
+    },
+    {
+        "id": "1242",
+        "texto": "\nTicket histórico: 1242\n\nTipo:\nIncident\n\nCategoria:\nArista\n\nSubcategoria:\nSwitch\n\nPrioridade:\nAlta\n\n\nAssunto:\n[AM ENERGIA] Porta apresentando CRC - Sw Arista\n\n\nDescrição do problema:\nSolicitamos apoio para tratar o erro que está ocorrendo no Sw Arista: Será acompanhada por nosso Especialista: João Medeiros joao.medeiros@ambarenergia-am.com.br 99472-6611\n\n\nInterações do analista:\n9\n\n\nResolução aplicada:\nDurante sessão, identificamos erros de CRC no cabo responsável por realizar mlag entre os switches Arista. Validamos internamente em nosso estoque e conseguimos localizar o item para substituição. O cabo foi entregue no endereço do cliente em 25/05, no período da manhã, a troca foi realizada com êxito e o cliente informou que os erros de CRC não estão mais sendo apresentados. \n\n\nStatus:\nWithin SLA\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Arista",
+            "subcategoria": "Switch"
+        }
+    },
+    {
+        "id": "1243",
+        "texto": "\nTicket histórico: 1243\n\nTipo:\nIncident\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] LIBERAÇÃO DE ACESSO AO SISTEMA DME PREFEITURA AM\n\n\nDescrição do problema:\nBom dia, Afonso! Não estou conseguindo acessar o sistema da prefeitura DME, pede liberação de segurança, poderia por favor verificar? https://dme.manaus.am.gov.br/relatorio-debitos\n\n\nInterações do analista:\n3\n\n\nResolução aplicada:\nDurante acesso remoto via Teams foi possivel validar que o erro foi um bloqueio gerado em um encereco da AManzonAWS. O acesso foi liberado e o download foi realizado corretamente\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1244",
+        "texto": "\nTicket histórico: 1244\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nAOS\n\nPrioridade:\nMédia\n\n\nAssunto:\n[MPPA] Task Stuck.\n\n\nDescrição do problema:\nnan\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nDiagnosticado estado anômalo de 13 tasks no banco de dados Ergon com status não terminável (kRunning/kQueued persistido desde 2025-06-21 Verificado que as tasks principais eram do componente LCM (Log Collection) com subtasks bloqueadas, impedindo transição de estado Executado `ecli task.list include_completed=false` para mapear todas as tasks congeladas no sistema Abortadas manualmente 10 tasks do LCM Log Collection utilizando comando `ergon_update_task --task_uuid='<UUID>' --task_status=aborted` Metodicamente limpadas todas as subtasks com status kQueued antes de abortar suas tasks pai, respeitando hierarquia de dependências\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "AOS"
+        }
+    },
+    {
+        "id": "1245",
+        "texto": "\nTicket histórico: 1245\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nAOS\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[MPPA] Dense Node Minimum CVM\n\n\nDescrição do problema:\nDetailed information for dense_node_minimum_cvm_configuration_checks: Node 192.168.166.32: WARN: The following dense node CVM(s) do not have required memory to support RPO less than 6 hours. Node [192.168.166.31] has [36]GiB, required memory in GiB: [40] Node [192.168.166.34] has [36]GiB, required memory in GiB: [40] Node [192.168.166.32] has [36]GiB, required memory in GiB: [40] Node [192.168.166.33] has [36]GiB, required memory in GiB: [40] Node [192.168.166.35] has [36]GiB, required memory in GiB: [40] Refer to KB 15204 (http://portal.nutanix.com/kb/15204) for details on dense_node_minimum_cvm_configuration_checks\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nAumento de capacidade de memoria na CVM.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "AOS"
+        }
+    },
+    {
+        "id": "1246",
+        "texto": "\nTicket histórico: 1246\n\nTipo:\nService Request\n\nCategoria:\nnan\n\nSubcategoria:\nnan\n\nPrioridade:\nBaixa\n\n\nAssunto:\nSR:Switch Gerenciável - Configuração inicial e integração na rede\n\n\nDescrição do problema:\nnan\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "nan",
+            "subcategoria": "nan"
+        }
+    },
+    {
+        "id": "1247",
+        "texto": "\nTicket histórico: 1247\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nHardware\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[TJ-RR] Verificação da saúde do Cluster TJRR-DR\n\n\nDescrição do problema:\nO cluster TJRR-DR tem 3 nodes apresentando alertas críticos, dois deles se referem a falhas de SSD M2. Nossa equipe técnica já percebeu que quando recuperamos uma VM em algum desses nodes, ela apresenta falha. Assim, solicito uma análise do ambiente. Após a análise, sugiro uma reunião entre as equipes técnicas do TJRR e ClearIT para discutir a alterativas para solucionar o problema.\n\n\nInterações do analista:\n9\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nnan\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "Hardware"
+        }
+    },
+    {
+        "id": "1248",
+        "texto": "\nTicket histórico: 1248\n\nTipo:\nService Request\n\nCategoria:\nnan\n\nSubcategoria:\nnan\n\nPrioridade:\nBaixa\n\n\nAssunto:\nSR:A10 Networks - Configuração de virtual servers (VIPs) e serviços associados\n\n\nDescrição do problema:\nnan\n\n\nInterações do analista:\n3\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nSLA Violated\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "nan",
+            "subcategoria": "nan"
+        }
+    },
+    {
+        "id": "1249",
+        "texto": "\nTicket histórico: 1249\n\nTipo:\nIncident\n\nCategoria:\nVeeam\n\nSubcategoria:\nJobs (Execução)\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CMM] Falha Backup Veeam\n\n\nDescrição do problema:\nnan\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nRealizamos reboot do proxy para reestabelecer a conexão com o Nutanix.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Veeam",
+            "subcategoria": "Jobs (Execução)"
+        }
+    },
+    {
+        "id": "1250",
+        "texto": "\nTicket histórico: 1250\n\nTipo:\nIncident\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nUrgente\n\n\nAssunto:\n[CLEARIT] Nao recebimento de email do Diego Costa de Brasilia\n\n\nDescrição do problema:\nNao estou recebendo email do Diego Costa, da nossa filial de Brasilia\n\n\nInterações do analista:\n3\n\n\nResolução aplicada:\nFoi realizada análise do envio informado pelo usuário através do rastreamento de mensagens no Exchange Admin Center. Inicialmente, o e-mail constava como entregue no fluxo de mensagens, porém, após validação complementar no Microsoft Defender, identificamos que a mensagem havia sido direcionada para quarentena pela política antimalware, devido à análise de segurança do conteúdo/link presente no e-mail. Após validação, a mensagem foi liberada da quarentena e disponibilizada ao destinatário. Orientado que o destinatário verifique novamente a Caixa de Entrada e realize a busca pelo assunto do e-mail no Outlook Web, caso necessário. Solicitação atendida.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1251",
+        "texto": "\nTicket histórico: 1251\n\nTipo:\nService Request\n\nCategoria:\nnan\n\nSubcategoria:\nnan\n\nPrioridade:\nBaixa\n\n\nAssunto:\nSR:Nutanix Foundation - Otimização de recursos de cluster\n\n\nDescrição do problema:\nPOC-NCM\n\n\nInterações do analista:\n2\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "nan",
+            "subcategoria": "nan"
+        }
+    },
+    {
+        "id": "1252",
+        "texto": "\nTicket histórico: 1252\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nPrism (Management)\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CMM] Retirada CMM-DR do Prism Central\n\n\nDescrição do problema:\nRetirar antigo DR do prism central\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nComo o cluster cmm-dr ja havia sido retirado, foi preciso realizar a remoção via: nutanix@NTNX-172-22-0-8-A-PCVM:~$ ncli multicluster delete-cluster-state cluster-id=\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "Prism (Management)"
+        }
+    },
+    {
+        "id": "1253",
+        "texto": "\nTicket histórico: 1253\n\nTipo:\nService Request\n\nCategoria:\nnan\n\nSubcategoria:\nnan\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEAR] Onboarding - Vinicius Pereira Marques\n\n\nDescrição do problema:\nnan\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "nan",
+            "subcategoria": "nan"
+        }
+    },
+    {
+        "id": "1254",
+        "texto": "\nTicket histórico: 1254\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nAlta\n\n\nAssunto:\n[CLEARIT] acesso a plataforma Odoo\n\n\nDescrição do problema:\nBom dia ,tudo bem ? O Paulo Freitas quer que eu tenha acesso a plataforma Odoo igual o time de compras e logística , pois estou auxiliando eles nas demandas , poderiam me ajudar em relação a isso ? Caso tenham alguma duvida por gentileza consultar o Paulo . Obrigada \n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nRealizado a liberação dos acessos. \n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1256",
+        "texto": "\nTicket histórico: 1256\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Health Check Office SP\n\n\nDescrição do problema:\nHealth Check Office SP\n\n\nInterações do analista:\n0\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nhealthcheckinterno\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1255",
+        "texto": "\nTicket histórico: 1255\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Health Check Sistemas ClearIT\n\n\nDescrição do problema:\n[ClearIT] Health Check Sistemas ClearIT\n\n\nInterações do analista:\n0\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nhealthchecksistemasclear\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1257",
+        "texto": "\nTicket histórico: 1257\n\nTipo:\nService Request\n\nCategoria:\nNutanix\n\nSubcategoria:\nLCM (Lifecycle Manager)\n\nPrioridade:\nMédia\n\n\nAssunto:\n[TCM-SP] Atualização do cluster Nutanix\n\n\nDescrição do problema:\nBom dia, Gostaria de agendar um suporte para atualização de Prism Central, AOS e AHV para os dias 29 e 30/05/2026. Versoes atuais: pc.7.3.1.3 AOS 7.3.1.5 AHV 10.3.1.4 Versoes pretendidas: pc.7.3.1.9 ou pc.7.5.1.4 AOS 7.3.1.9 ou AOS 7.5.1.2 AHV 10.3.1.8 ou AHV 11.0.1.1 Gostaria da recomendação de vocês para a versão final, se mantemos a última da 7.3 ou se vamos já para a última da 7.5. A versão 7.5 já está estável? Tem outros clientes instalados? O motivo da atualização é este security update: SA-47 Investigation and Break-Fix Guidance for CVE-2026-31431 Copyfail https://download.nutanix.com/alerts/Security_Advisory_0047.pdf. Muito obrigado, José\n\n\nInterações do analista:\n6\n\n\nResolução aplicada:\nForam realizadas atualizações no ambiente Nutanix: Prism Central atualizado de pc.7.3.1.3 para pc.7.3.1.9 e AOS atualizado de 7.3.1.5 para 7.3.1.9. Não houve impacto crítico reportado durante as atualizações concluídas. As atualizações do AHV foram realizadas em 30/05, sem nenhum impacto no ambiente. \n\n\nStatus:\nWithin SLA\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "LCM (Lifecycle Manager)"
+        }
+    },
+    {
+        "id": "1258",
+        "texto": "\nTicket histórico: 1258\n\nTipo:\nService Request\n\nCategoria:\nNutanix\n\nSubcategoria:\nNKP (Kubernetes)\n\nPrioridade:\nMédia\n\n\nAssunto:\n[PMM] Recriação do ambiente NKP\n\n\nDescrição do problema:\nPrezados, Segundo a documentação da Nutanix em https://portal.nutanix.com/page/documents/details?targetId=Nutanix-Kubernetes-Platform-v2_17:top-create-cluster-custom-cilium-configuration-t.html, a configuração abaixo, quando aplicada após a criação do cluster, pode ser perdida, voltando ao estado de intermitência: loadBalancer: mode: snat Por este motivo, solicitamos apoio para a recriar o ambiente com as configurações certas, incluindo a configuração do servidor NTP local para que o indicador \"System clock synchronized\" fique \"yes\". Cordialmente, Flávio Almeida Técnico de Tecnologia da Informação da Fazenda Municipal Divisão de Segurança e Infraestrutura de TI - DSITI/SUBTI/SEMEF flavio.almeida@manaus.am.gov.br\n\n\nInterações do analista:\n3\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nnan\n\n\nTags:\naging-critico,aberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "NKP (Kubernetes)"
+        }
+    },
+    {
+        "id": "1259",
+        "texto": "\nTicket histórico: 1259\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Configuração DNS Cloudflare\n\n\nDescrição do problema:\nBom dia, Solicito apoio para a criação de apontamentos no DNS da Cloudflare da Clear para os seguintes endereços: Tipo: A Nome: o11y (https://o11y.clearit.com.br/) IP: 177.104.181.180\n\n\nInterações do analista:\n2\n\n\nResolução aplicada:\nregistro criado no DNS.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1260",
+        "texto": "\nTicket histórico: 1260\n\nTipo:\nIncident\n\nCategoria:\nExagrid\n\nSubcategoria:\nConsole\n\nPrioridade:\nMédia\n\n\nAssunto:\n[SEMA-MT] Atualização de certificados nos storages exagrid\n\n\nDescrição do problema:\nBoa tarde, Preciso de auxilio para atualizar os certificados válidos para os dois storages exagrid que possuimos. Tentei realizar o procedimento mas não funcionou, um dos equipamentos está apresentando problema na tela de certificados root CA.\n\n\nInterações do analista:\n3\n\n\nResolução aplicada:\nReinicio dos serviços realizado pela fabricante.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Exagrid",
+            "subcategoria": "Console"
+        }
+    },
+    {
+        "id": "1261",
+        "texto": "\nTicket histórico: 1261\n\nTipo:\nService Request\n\nCategoria:\nnan\n\nSubcategoria:\nnan\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[INDT-AM] Acesso Mensal - Serviços Gerenciáveis\n\n\nDescrição do problema:\n[INDT-AM] Acesso Mensal - Serviços Gerenciáveis\n\n\nInterações do analista:\n2\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nnan\n\n\nTags:\naging-critico,aberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "nan",
+            "subcategoria": "nan"
+        }
+    },
+    {
+        "id": "1262",
+        "texto": "\nTicket histórico: 1262\n\nTipo:\nService Request\n\nCategoria:\nNutanix\n\nSubcategoria:\nLCM (Lifecycle Manager)\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CMM] Acesso Semanal\n\n\nDescrição do problema:\nCheck semanal ambiente CMM.\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nSLA Violated\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "LCM (Lifecycle Manager)"
+        }
+    },
+    {
+        "id": "1263",
+        "texto": "\nTicket histórico: 1263\n\nTipo:\nService Request\n\nCategoria:\nMonitor\n\nSubcategoria:\nHardware\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Monitores para o escritor do Rio de Janeiro\n\n\nDescrição do problema:\nBoa tarde! Solicito o envio de dois monitores, atendendo ao padrão utilizado em São Paulo, para uso no escritório do Rio de Janeiro. Como não temos recepcionistas trabalhando no escritório aos finais de semana, sugiro enviar os dois equipamentos para o endereço abaixo: Rua Tonelero, 186, ap. 705 - Copacabana - Rio de Janeiro - RJ - CEP: 22030-002 A/C Geilson Melo\n\n\nInterações do analista:\n3\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Monitor",
+            "subcategoria": "Hardware"
+        }
+    },
+    {
+        "id": "1265",
+        "texto": "\nTicket histórico: 1265\n\nTipo:\nService Request\n\nCategoria:\nOdoo\n\nSubcategoria:\nSoftware\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] Usuário CRM\n\n\nDescrição do problema:\nFavor adicionar o usuário Daniel Galvão ao CRM\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nAcesso concedido com sucesso. \n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Odoo",
+            "subcategoria": "Software"
+        }
+    },
+    {
+        "id": "1266",
+        "texto": "\nTicket histórico: 1266\n\nTipo:\nService Request\n\nCategoria:\nWindows\n\nSubcategoria:\nSoftware\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] Criação de acesso a VPN\n\n\nDescrição do problema:\nBoa Tarde! Solicito a criação do meu acesso a VPN. Acesso solicitado para realização das atividades, como acesso aos sistemas Zabbix, Grafana, Obserbalit IA (011Y). Desde já agradeço.\n\n\nInterações do analista:\n0\n\n\nResolução aplicada:\nUsuario da VPN criado e VPN configurada.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Windows",
+            "subcategoria": "Software"
+        }
+    },
+    {
+        "id": "1267",
+        "texto": "\nTicket histórico: 1267\n\nTipo:\nService Request\n\nCategoria:\nNutanix\n\nSubcategoria:\nPrism (Management)\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[PMM] Duvida sobre licenciamento e suporte do Prism Central\n\n\nDescrição do problema:\nBom dia! Gostaríamos de tirar uma dúvida sobre a questão do suporte oficial da Nutanix ao Prism Central. Precisamos adicionar um cluster não licenciado ao mesmo Prism Central de um cluster licenciado e gostaríamos de saber se o suporte oficial estará garantido nesse cenário. Conforme a documentação da própria Nutanix no link: https://portal.nutanix.com/page/documents/details?targetId=License-Manager:lmg-licmgr-cluster-based-lic-c.html e imagem em anexo.\n\n\nInterações do analista:\n3\n\n\nResolução aplicada:\nRespondido as dúvidas do cliente referente ao suporte presente dentro do licenciamento para os clusters registrados no Prism Central.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "Prism (Management)"
+        }
+    },
+    {
+        "id": "1268",
+        "texto": "\nTicket histórico: 1268\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nLCM (Lifecycle Manager)\n\nPrioridade:\nAlta\n\n\nAssunto:\n[SEFAZ-AC] Falha durante atualização\n\n\nDescrição do problema:\nPrezados, estamos com um host do cluster em modo manutenção após uma falha na atualização do ambiente. \n\n\nInterações do analista:\n4\n\n\nResolução aplicada:\nProblema: O nó AHVSFZAI03 encontrava-se indisponível e retido no ambiente Phoenix / Modo de manutenção. Ação Realizada: Realizado o acesso à console do IPMI para forçar a inicialização do hypervisor (AHV) executando o script reboot_to_host.py. Após o boot, a conectividade foi validada e o host foi retirado do modo de manutenção através da CVM (comando acli host.exit_maintenance_mode). Conclusão: O nó foi inicializado com sucesso, restabeleceu a comunicação com o cluster e encontra-se pronto. \n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "LCM (Lifecycle Manager)"
+        }
+    },
+    {
+        "id": "1269",
+        "texto": "\nTicket histórico: 1269\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nPrism (Management)\n\nPrioridade:\nMédia\n\n\nAssunto:\n[PMM] Falha ao tentar adicionar cluster ao Prism central\n\n\nDescrição do problema:\nBoa tarde! Durante o procedimento de adição de um cluster ao prism central, recebemos a seguinte mensagem de erro: \"The cluster is blacklisted for further registration\" Precisamos realizar esse procedimento com mais dois clusters.\n\n\nInterações do analista:\n3\n\n\nResolução aplicada:\nAcesso realizado à CVM (172.17.106.171) via SSH. Executado o comando zkrm /appliance/physical/blacklisted para remover o bloqueio no Zookeeper. Novo procedimento de registo no Prism Central (172.17.106.215) concluído com sucesso.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "Prism (Management)"
+        }
+    },
+    {
+        "id": "1270",
+        "texto": "\nTicket histórico: 1270\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nHardware\n\nPrioridade:\nAlta\n\n\nAssunto:\n[AM ENERGIA] Disco com mensagem de não montado\n\n\nDescrição do problema:\nSolicitamos apoio técnico para verificação de erro no host HX5520 (J50007KM):\n\n\nInterações do analista:\n10\n\n\nResolução aplicada:\nCliente entrou em contato informando que um dos discos de um dos nós do Cluster (J50007KM) se encontrava com defeito. Foram realizadas tentativas de re-scan dos dispositivos de armazenamento sem sucesso. Com base nos testes realizados, o comportamento apontava falha de hardware envolvendo o disco ou componentes relacionados, como controladora ou backplane, com o agravante da indisponibilidade do BMC. Foi realizado abertura de chamado junto a Lenovo para seguir com a tratativa do caso, case E0481M0AVL. Na data de 05/06, o técnico da Lenovo compareceu ao datacenter, onde o nó em questão foi inserido em modo manutenção, e a troca do disco foi realizada com sucesso. Após o disco ter sido reconhecido e montado, realizamos a retirada do Nó de modo manutenção e validamos através da IPMI que todos os discos estão sendo reconhecidos.\n\n\nStatus:\nWithin SLA\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "Hardware"
+        }
+    },
+    {
+        "id": "1271",
+        "texto": "\nTicket histórico: 1271\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[AM ENERGIA] Solicitação de cadastro no Portal da Central de Serviços - Clear IT\n\n\nDescrição do problema:\nBom dia. Solicitamos o cadastro do colaborador abaixo, para abertura de chamados no Portal. João Vieira de Medeiros Neto - joao.medeiros@ambarenergia-am.com.br\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nContato já criado conforme solicitado\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1272",
+        "texto": "\nTicket histórico: 1272\n\nTipo:\nIncident\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nAlta\n\n\nAssunto:\n[CLEARIT] OUTLOOK | Erro ao enviar e-mail – Rótulo de confidencialidade não reconhecido\n\n\nDescrição do problema:\nOlá, Estou recebendo o erro abaixo ao tentar enviar e-mails, mesmo após aplicar o rótulo de confidencialidade na mensagem. Já tentei 3 vezes e o erro persiste: \"Tentativa de envio de e-mail sem rótulo de confidencialidade, o que não é permitido pelas políticas de segurança.\" - Rótulo aplicado: Externo Att.\n\n\nInterações do analista:\n2\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1273",
+        "texto": "\nTicket histórico: 1273\n\nTipo:\nService Request\n\nCategoria:\nSharepoint\n\nSubcategoria:\nSoftware\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] acesso a pasta de rede\n\n\nDescrição do problema:\nBoa Tarde, prezado! Solicito o acesso a pasta de rede para envio, visualização e edição de documentos e pastas. Desde já agradeço. At.te, Vinicius Marques\n\n\nInterações do analista:\n0\n\n\nResolução aplicada:\nAcesso concedido\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Sharepoint",
+            "subcategoria": "Software"
+        }
+    },
+    {
+        "id": "1274",
+        "texto": "\nTicket histórico: 1274\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Cadastro Impressora\n\n\nDescrição do problema:\nSolicito, por gentileza, o cadastro/instalação da impressora na minha máquina, para que eu possa utilizá-la.\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nImpressora configurada.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1275",
+        "texto": "\nTicket histórico: 1275\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] Instalar e testar o APP de Karaoke KARAFUN na TV\n\n\nDescrição do problema:\nSolicito a gentileza de instalar o aplicativo KaraFun na TV e realizar teste. Estou a disposição. Obrigada\n\n\nInterações do analista:\n4\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1276",
+        "texto": "\nTicket histórico: 1276\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] Liberar / Mapear pasta\n\n\nDescrição do problema:\nSolicito a gentileza de liberar , mapear a pasta para a colaboradora Monize Machado. C:\\Users\\BeatrizRibeiro\\Clear Tecnologia da Informacao Ltda\\Share-Marketing - Eventos 2025 Obrigada\n\n\nInterações do analista:\n3\n\n\nResolução aplicada:\nColaboradora já com acesso ao share-marketing. \n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1277",
+        "texto": "\nTicket histórico: 1277\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] Cadastrar acesso a porta da sala do estoque - Ricardo Dias e Juliana Soares\n\n\nDescrição do problema:\nSolicitamos a gentileza de cadastrar o acesso a porta da sala de estoque, localizada no 6o andar, ao lado da sala da diretoria para : Ricardo Dias e Juliana Soares Estamos a disposição Obrigada Juliana \n\n\nInterações do analista:\n2\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1278",
+        "texto": "\nTicket histórico: 1278\n\nTipo:\nService Request\n\nCategoria:\nNutanix\n\nSubcategoria:\nPrism (Management)\n\nPrioridade:\nMédia\n\n\nAssunto:\n[SIDIA] Realização do foundation Nutanix - G7\n\n\nDescrição do problema:\nBoa tarde, Solicito a realização do Foundation no nosso Cluster Nutanix G7 de 5 Nodes. Esse cluster hoje está na rede Samsung e iremos configurá-lo na rede Sidia, para implantação de um DR. Obs. Esse cluster não possui mais licenciamento. Estou a disposição para maiores informações. Att.\n\n\nInterações do analista:\n6\n\n\nResolução aplicada:\nProcesso de foundation realizado conforme documentação oficial Nutanix: https://portal.nutanix.com/page/documents/details?targetId=Field-Installation-Guide-v5_2:Node%20Configuration%20and%20Foundation%20Launch Dados utilizados durante o processo: -------------///-----------------///----------------- Topologia Foundation Nutanix - Contingência -------------///-----------------///----------------- NutanixDataService-CTG 172.17.232.24 PrismElement-CTG 172.17.232.23 -------------///-----------------///----------------- Hosts 172.17.232.50 Nutanix-CTG_AHV-Node01 172.17.232.51 Nutanix-CTG_AHV-Node02 172.17.232.52 Nutanix-CTG_AHV-Node03 172.17.232.53 Nutanix-CTG_AHV-Node04 172.17.232.54 Nutanix-CTG_AHV-Node05 -------------///-----------------///----------------- CVMs 172.17.232.70 Nutanix-CTG_CVM-Node01 172.17.232.71 Nutanix-CTG_CVM-Node02 172.17.232.72 Nutanix-CTG_CVM-Node03 172.17.232.73 Nutanix-CTG_CVM-Node04 172.17.232.74 Nutanix-CTG_CVM-Node05 -------------///-----------------///----------------- IPMI 172.17.232.90 Nutanix-CTG_IPMI-Node01 172.17.232.91 Nutanix-CTG_IPMI-Node02 172.17.232.92 Nutanix-CTG_IPMI-Node03 172.17.232.93 Nutanix-CTG_IPMI-Node04 172.17.232.94 Nutanix-CTG_IPMI-Node05 Processo de Foundation foi realizado com sucesso. \n\n\nStatus:\nWithin SLA\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "Prism (Management)"
+        }
+    },
+    {
+        "id": "1279",
+        "texto": "\nTicket histórico: 1279\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nPrism (Management)\n\nPrioridade:\nMédia\n\n\nAssunto:\n[TJAC] Alertas Nutanis\n\n\nDescrição do problema:\nBom dia, estamos com alguns alertas no nosso Nutanix que seguem a baixo e solicito apoio para mitigação: Tem esse do NTP que de vez em quanto aparece e se auto resolve. Além desse email recebido hoje:\n\n\nInterações do analista:\n7\n\n\nResolução aplicada:\nPara o NTP, a princípio não é necessária ação, uma vez que tem se auto resolvido. Fizemos a limpeza da partição /home/log/audit com o comando sudo rm -f *.log* Pedi para o João e o time gerar um novo ticket para o agendamento da atualização seguindo o Securty Advisory e para a troca das senhas admins da CVM e do PC\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "Prism (Management)"
+        }
+    },
+    {
+        "id": "1280",
+        "texto": "\nTicket histórico: 1280\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Health Check Sistemas ClearIT\n\n\nDescrição do problema:\n[ClearIT] Health Check Sistemas ClearIT\n\n\nInterações do analista:\n0\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nhealthchecksistemasclear\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1281",
+        "texto": "\nTicket histórico: 1281\n\nTipo:\nService Request\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Health Check Office SP\n\n\nDescrição do problema:\nHealth Check Office SP\n\n\nInterações do analista:\n0\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nhealthcheckinterno\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1282",
+        "texto": "\nTicket histórico: 1282\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nLCM (Lifecycle Manager)\n\nPrioridade:\nMédia\n\n\nAssunto:\n[PMM] Falha na execução do Inventory LCM\n\n\nDescrição do problema:\nBom dia! Recebemos um erro na tentativa de execução do inventory do cluster PMM-DB conforme imagem em anexo. Os arquivos referenciados de log na imagem são muito grandes\n\n\nInterações do analista:\n4\n\n\nResolução aplicada:\nFizemos novamente o processo, e o erro não aconteceu novamente, portanto não foi necessária qualquer atividade de troubleshooting\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "LCM (Lifecycle Manager)"
+        }
+    },
+    {
+        "id": "1283",
+        "texto": "\nTicket histórico: 1283\n\nTipo:\nIncident\n\nCategoria:\nNutanix\n\nSubcategoria:\nPrism (Management)\n\nPrioridade:\nMédia\n\n\nAssunto:\n[MPPA] LCM Pre-check Failure: CMSP ClusterWorkflow and Monitoring Addons Unhealthy\n\n\nDescrição do problema:\nnan\n\n\nInterações do analista:\n2\n\n\nResolução aplicada:\nDurante o processo de atualização via LCM, foi detectado o erro exit status 1 no pre-check. A investigação via CLI revelou que os componentes Addons (especificamente o monitoramento) e ClusterWorkflow estavam em estado unhealthy. Análise Técnica Causa Raiz: O pod prometheus-k8s-0 no namespace ntnx-system apresentava um loop crítico de reinicialização, com mais de 22.000 restarts. Diagnóstico: O container principal do Prometheus estava incapaz de inicializar devido ao acúmulo de mais de 24.000 segmentos de log (WAL) e diretórios de checkpoint corrompidos no volume persistente. Ações Realizadas Intervenção em Disco: Realizado acesso via root para montagem da partição do CMSP e limpeza manual do diretório de checkpoints travados (/bin/rm -rf checkpoint.002001/). Recriação do Serviço: O pod foi deletado para forçar a regeneração do banco de dados de métricas em um estado limpo. Sincronização do Workflow: Executado o comando mspctl cls upgrade prism-central para destravar o status do gerenciador de atualização que estava em timeout. Conclusão: Após novo inventário no LCM, a saúde de todos os componentes foi restabelecida (Healthy).\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "Prism (Management)"
+        }
+    },
+    {
+        "id": "1284",
+        "texto": "\nTicket histórico: 1284\n\nTipo:\nIncident\n\nCategoria:\nOutros\n\nSubcategoria:\nOutros\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Ajuda com formulários pelo clicksing\n\n\nDescrição do problema:\nBoa tarde! Preciso de auxilio para criação de formulário na plataformas Clicksign, para disparar para os colaboradores.\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nFormulario criado.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Outros",
+            "subcategoria": "Outros"
+        }
+    },
+    {
+        "id": "1285",
+        "texto": "\nTicket histórico: 1285\n\nTipo:\nService Request\n\nCategoria:\nOdoo\n\nSubcategoria:\nSoftware\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Cadastro de função do Odoo\n\n\nDescrição do problema:\nPreciso estar cadastrado como BDM no Odoo. Ainda não consigo associar Leads no meu perfil.\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nRealizado ajuste no Odoo.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Odoo",
+            "subcategoria": "Software"
+        }
+    },
+    {
+        "id": "1286",
+        "texto": "\nTicket histórico: 1286\n\nTipo:\nService Request\n\nCategoria:\nSentinel One\n\nSubcategoria:\nAgent (Clients)\n\nPrioridade:\nBaixa\n\n\nAssunto:\n[CLEARIT] Instalador SentinelOne\n\n\nDescrição do problema:\nBom dia, Poderia disponibilizar uma imagem atualizada do SentinelOne para MacOS, arquitetura M1 de processador?\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nRealizado o envio da versão nova do sentinel e de acordo com o usuario funcionou corretamente. \n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Sentinel One",
+            "subcategoria": "Agent (Clients)"
+        }
+    },
+    {
+        "id": "1287",
+        "texto": "\nTicket histórico: 1287\n\nTipo:\nService Request\n\nCategoria:\nWindows\n\nSubcategoria:\nSoftware\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Mapeamento de Share\n\n\nDescrição do problema:\nSolicito mapeamento de unidade com o Share Comercial no meu computador pessoal ao qual eu utilizo nos meus dias de Home. Já autorizado pelo Alexandre Guidorzi\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nPasta sincronizada na maquina do usuario.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Windows",
+            "subcategoria": "Software"
+        }
+    },
+    {
+        "id": "1288",
+        "texto": "\nTicket histórico: 1288\n\nTipo:\nService Request\n\nCategoria:\nOffice 365\n\nSubcategoria:\nSoftware\n\nPrioridade:\nAlta\n\n\nAssunto:\n[CLEARIT] Liberação de acesso via OAuth ao Microsoft 365 (meu usuário) para projeto interno de produtividade\n\n\nDescrição do problema:\nPessoal de TI, bom dia. Estou tocando uma iniciativa pra organizar melhor meu dia-a-dia como BDM/PM · basicamente quero consolidar email, agenda, anotações e demandas de pré-vendas em uma camada única de visibilidade, pra reduzir tempo gasto preparando reuniões e perder menos coisa entre as abas abertas. Pra isso preciso de acesso programático autenticado ao Microsoft 365 corporativo, apenas no meu próprio usuário (lbraz@clearit.com.br) · sem ler email/agenda de ninguém, sem permissão administrativa. Só leitura do que já é meu. O que precisa ser liberado: Mail.Read — ler meu próprio email Calendars.Read — ler minha própria agenda User.Read — ler meu perfil básico (padrão OAuth) Tudo via fluxo OAuth 2.0 / Modern Authentication — sem Basic Auth, sem IMAP legado, sem app password.\n\n\nInterações do analista:\n1\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Office 365",
+            "subcategoria": "Software"
+        }
+    },
+    {
+        "id": "1289",
+        "texto": "\nTicket histórico: 1289\n\nTipo:\nIncident\n\nCategoria:\nOdoo\n\nSubcategoria:\nSoftware\n\nPrioridade:\nMédia\n\n\nAssunto:\n[CLEARIT] Lead não aparece no meu Odoo\n\n\nDescrição do problema:\nO Geilson (vendedor) criou um Lead e já conseguiu me marcar como BDM, porém o Lead ainda não aparece pra mim no Odoo. Não sei se é alguma configuração no meu Odoo ou no dele. Uma diferença que notei é que no meu aparecem 3 \"Clear\"s diferentes e no dele só aparece uma. Não sei pode estar relacionado.\n\n\nInterações do analista:\n2\n\n\nResolução aplicada:\nLeads estão aparecendo devido as configurações liberadas no Odoo.\n\n\nStatus:\nWithin SLA\n\n\nTags:\nnan\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Odoo",
+            "subcategoria": "Software"
+        }
+    },
+    {
+        "id": "1290",
+        "texto": "\nTicket histórico: 1290\n\nTipo:\nService Request\n\nCategoria:\nNutanix\n\nSubcategoria:\nnan\n\nPrioridade:\nBaixa\n\n\nAssunto:\nSR:Nutanix Files - Migração de dados não estruturados para compartilhamento Nutanix Files/Nutanix Unified Storage (máximo 4TiB)\n\n\nDescrição do problema:\nnan\n\n\nInterações do analista:\n7\n\n\nResolução aplicada:\nnan\n\n\nStatus:\nnan\n\n\nTags:\naberto-1-semana\n",
+        "metadata": {
+            "tipo": "ticket_historico",
+            "categoria": "Nutanix",
+            "subcategoria": "nan"
+        }
+    }
+]
